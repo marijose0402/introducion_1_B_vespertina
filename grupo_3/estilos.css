@@ -1,0 +1,20 @@
+h1{
+color: rgba(182, 13, 13, 0.526);
+}
+.formulario{
+background-color: rgb(207, 190, 225);
+border: solid 2px rgb(202, 97, 115);
+border-radius: 10px;
+
+}
+footer{
+background: rgba(239, 77, 239, 0.405);
+}
+header{
+background: rgb(239, 190, 147);
+}
+
+.row{
+    line-height: 20px;
+    padding:6px 0px 5px 6px ;
+}
