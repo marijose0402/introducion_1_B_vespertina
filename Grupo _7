@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href=introducion.css>
+    <title>Document</title>
+</head>
+<body>
+    <div id="general">
+        <h1 class="letra">Encabezado</h1>
+    </div>
+    <div id="un-lado">
+<h1 class="letra">sidebar</h1>
+<div id="menu">
+    <h1 class="letra"> menu </h1></div>
+    </div>
+  <div id="info">
+    <h1 class="letra">base</h1>
+    <video src=""></video>
+<div id="body"> 
+    <h1 class="letra">cuerpo</h1>
+    <h2>Ingrese usuario y contraseña</h2>
+    fo
+    <label for="">usuario</label>
+    <input type="text">
+    <label for="">contraseña</label>
+    <input type="password">
+</div>
+  <footer id="pie">
+    <br>
+    <h1 class="letra">pie de pagina</h1>
+  </footer>
+</body>
+</html>
+
