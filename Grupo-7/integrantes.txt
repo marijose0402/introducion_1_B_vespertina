@@ -1,1 +1,5 @@
 integrantes :
+ 
+ * Bryan Latacumba Muñoz
+ * Stefany Salazar Lalangui 
+ * Mariangely Cordero Denjoy
