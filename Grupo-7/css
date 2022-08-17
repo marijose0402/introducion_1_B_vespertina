@@ -1,1 +1,30 @@
+.container{
+    background-color: aqua;
+}
+
+.body{
+    border: solid 5px;
+    border-color: rgb(136, 95, 66);
+   width: 515px;
+   background: linear-gradient(250deg, rgb(243, 225, 166) 0%, rgb(224, 191, 121) 35%, rgb(97, 192, 184) 100%);
+   font-family: cursive;
+   margin-left: 600px;
+   box-shadow: 0 0 5px #ceb993, 0 0 25px #030302, 0 0 50px #e4b359, 0 0 200px #b6a143;
+}
+.forma{
+    width: 400px;
+    height: 400px;
+    
+    float: left  ;
+    margin-top: 15px;
+
+}
+.credenciales{
+    width: 500px;
+    height: 50px;
+    display: inline-block;
+    background: linear-gradient(250deg, rgb(202, 167, 50) 0%, rgb(105, 83, 38) 35%, rgrgb(11, 70, 65)00%);
+    box-shadow: 0 0 5px #ceb993, 0 0 25px #405555, 0 0 50px #1a5a3a, 0 0 200px #50b643;
+
+}
 
