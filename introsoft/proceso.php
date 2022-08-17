@@ -33,12 +33,12 @@
 					while($row = $result->fetch_assoc()){
 						if($usuario == $row["usuario"] && $clave == $row["clave"]){
 							//ingrese al sistema
-							echo "Leyendo de la DB... estoy dentro del sistema";
+							echo "ESTAS DENTRO DEL SISTEMA";
 							$_SESSION['nombre'] = $row['nombre'];
-							//echo '<script>location.href="index.html"</script>';
+							echo '<script>location.href="index.html"</script>';
 
 						}else{
-							echo "Leyendo de la DB....usuario o clave incorrectos";
+							echo "USUARIO O CLAVE INCORRECTOS, POR FAVOR INGRESE LOS DATOS CORRECTOS.";
 
 						}
 
